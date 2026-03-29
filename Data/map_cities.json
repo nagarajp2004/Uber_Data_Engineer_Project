@@ -66,6 +66,7 @@
     "city_id": 10,
     "city": "San Jose",
     "state": "CA",
-    "region": "West"
+    "region": "West",
+    "updated_at":"2026-03-29T04:47:51.459+00:00"
   }
 ]
